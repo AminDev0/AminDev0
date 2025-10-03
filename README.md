@@ -1,7 +1,7 @@
 <!-- ================== Header ================== -->
 <h1 align="center">Hey, I’m AminDev 👋</h1>
 <p align="center">
-  🌐 Front‑End Web Developer | Turning ideas into beautiful, responsive websites  
+  🌐 Back_End Web Developer | Turning ideas into beautiful, responsive websites  
   🚀 Always learning new tech | Crafting pixel‑perfect experiences
 </p>
 
@@ -33,8 +33,6 @@
 |--------------------------|------------------------------------------------------|-------------------------------------------------|
 | **Modern Login Page**    | Animated, responsive login/signup form               | [github.com/AminDev/modern-login](#)            |
 | **Personal Portfolio**   | My personal website showcasing work & blog posts     | [github.com/AminDev/portfolio](#)               |
-| **Todo App**             | Vanilla JS task manager with Local Storage support   | [github.com/AminDev/todo-app](#)                |
-| **Flutter Firebase Demo**| Simple Flutter app integrated with Firebase backend | [github.com/AminDev/flutter-firebase-demo](#)   |
 
 ---
 
